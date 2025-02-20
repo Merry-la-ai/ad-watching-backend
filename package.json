@@ -1,0 +1,17 @@
+{
+  "name": "ad-watching-backend",
+  "version": "1.0.0",
+  "description": "Backend for ad-watching website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.4",
+    "axios": "^1.5.0"
+  }
+}
